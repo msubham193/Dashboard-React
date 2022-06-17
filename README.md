@@ -1,4 +1,4 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# React Admin Dashboard Application Using Tailwind Css
 
 # Login-Page
 ![Dashboard](https://firebasestorage.googleapis.com/v0/b/food-shop-24be1.appspot.com/o/Images%2FScreenshot%202022-06-17%20at%202.00.18%20PM-min.png?alt=media&token=7a401843-09e5-4823-bc8e-68bf310c5506)
